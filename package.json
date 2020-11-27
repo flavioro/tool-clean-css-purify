@@ -1,0 +1,9 @@
+{
+  "name": "purify-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "purify-css": "^1.2.5"
+  }
+}
